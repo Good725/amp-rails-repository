@@ -351,7 +351,6 @@ If `AMP validation successful` shows, the amp page is valid. If some errors are 
 
 ## References
 
-[Accelerated Mobile Pages Project](https://www.ampproject.org/)
 
 ## Contributing
 
@@ -365,6 +364,3 @@ If `AMP validation successful` shows, the amp page is valid. If some errors are 
 
 The gem is available as open source under the terms of the [MIT License](https://github.com/takafumir/rails_amp/blob/master/MIT-LICENSE).
 
-## Author
-
-[Takafumi Yamano](https://github.com/takafumir)
